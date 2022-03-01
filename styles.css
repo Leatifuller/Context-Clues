@@ -1,0 +1,9 @@
+h3{
+    text-align: center;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+body {
+    background-image: linear-gradient(180deg, blue,orange, red);
+}
